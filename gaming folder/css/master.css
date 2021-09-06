@@ -1,0 +1,56 @@
+body{
+    background-color: rgb(107, 47, 47);
+    margin: 50px;
+}
+ form h1{
+    text-align: center;
+    font-weight: 100px;
+    font-size: 3rem ;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+
+}
+form{
+    width: 30px;
+    border: 1px rgb(236, 46, 25);
+    box-sizing: border-box;
+    text-align: center;
+    position: relative;
+    padding: 1em;
+    border-radius: 10px;
+    margin: 2em auto;
+
+}
+form input{
+    display: block;
+    margin: 0%;
+    width: 6cm;
+    height: 6cm;
+    border-radius: 1em;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    font-size: 6em;
+    text-align: center;
+
+
+}
+
+p{
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    color: white;
+    font-size: 2rem;
+
+}
+
+.error{
+    color: red;
+
+}
+
+.success{
+    color: blue;
+}
